@@ -38,3 +38,7 @@ out/
 
 ### property files ###
 application-*.properties
+
+### mac ###
+.DS_Store
+**/.DS_Store
